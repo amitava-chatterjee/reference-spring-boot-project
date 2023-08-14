@@ -1,0 +1,4 @@
+2023-08-10 00:50:56 INFO org.springframework.boot.StartupInfoLogger Starting ReferenceSpringBootProjectApplication using Java 17.0.2 with PID 6844 (E:\STS-APR\amit-sir\reference-spring-boot-project\target\classes started by SUPRATIM in E:\STS-APR\amit-sir\reference-spring-boot-project)
+2023-08-10 00:50:56 DEBUG org.springframework.boot.StartupInfoLogger Running with Spring Boot v3.1.2, Spring v6.0.11
+2023-08-10 00:50:56 INFO org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default"
+2023-08-10 00:51:07 INFO org.springframework.boot.StartupInfoLogger Started ReferenceSpringBootProjectApplication in 12.419 seconds (process running for 15.515)
