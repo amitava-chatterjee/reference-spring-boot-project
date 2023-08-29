@@ -1,4 +1,15 @@
-2023-08-10 00:50:56 INFO org.springframework.boot.StartupInfoLogger Starting ReferenceSpringBootProjectApplication using Java 17.0.2 with PID 6844 (E:\STS-APR\amit-sir\reference-spring-boot-project\target\classes started by SUPRATIM in E:\STS-APR\amit-sir\reference-spring-boot-project)
-2023-08-10 00:50:56 DEBUG org.springframework.boot.StartupInfoLogger Running with Spring Boot v3.1.2, Spring v6.0.11
-2023-08-10 00:50:56 INFO org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default"
-2023-08-10 00:51:07 INFO org.springframework.boot.StartupInfoLogger Started ReferenceSpringBootProjectApplication in 12.419 seconds (process running for 15.515)
+2023-08-30 00:17:46 INFO org.springframework.boot.StartupInfoLogger Starting ReferenceSpringBootProjectApplication using Java 17.0.2 with PID 6372 (E:\STS-APR\PROJECTS-BOOT\reference-spring-boot-project\target\classes started by SUPRATIM in E:\STS-APR\PROJECTS-BOOT\reference-spring-boot-project)
+2023-08-30 00:17:46 DEBUG org.springframework.boot.StartupInfoLogger Running with Spring Boot v3.1.2, Spring v6.0.11
+2023-08-30 00:17:46 INFO org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default"
+2023-08-30 00:17:52 INFO org.springframework.boot.StartupInfoLogger Started ReferenceSpringBootProjectApplication in 6.289 seconds (process running for 7.393)
+2023-08-30 00:22:45 ERROR com.company.reference.exception.APIExceptionHandler Requested payload is not valid: {timestamp=2023-08-30T00:22:45.882136600, status=400, error=400 BAD_REQUEST, message={email=Email is not valid}}
+2023-08-30 00:24:01 ERROR com.company.reference.exception.APIExceptionHandler Requested payload is not valid: {timestamp=2023-08-30T00:24:01.025765800, status=400, error=400 BAD_REQUEST, message={email=Email is not valid, phone=Phone number is not valid}}
+2023-08-30 00:24:20 ERROR com.company.reference.exception.APIExceptionHandler Requested payload is not valid: {timestamp=2023-08-30T00:24:20.198999, status=400, error=400 BAD_REQUEST, message={phone=Phone number is not valid}}
+2023-08-30 00:24:34 INFO com.company.reference.controller.EmployeeController A employee has been saved: Employee(employeeId=101, firstName=Verie, middleName=Nzzgztydqsqzlazgosotoquejo, lastName=Gxunwxhtwefywjqrfsrsc, email=bhJfuy6t32@gmail.com, phone=3015816757, age=80)
+2023-08-30 00:25:08 ERROR com.company.reference.exception.APIExceptionHandler Requested employee(s) not found: {timestamp=2023-08-30T00:25:08.389568900, status=404, error=404 NOT_FOUND, message=No employee found between age of 89 and 95}
+2023-08-30 00:26:05 ERROR com.company.reference.exception.APIExceptionHandler Requested employee(s) not found: {timestamp=2023-08-30T00:26:05.171445900, status=404, error=404 NOT_FOUND, message=Employee with phone: 8030266 not found}
+2023-08-30 00:28:04 INFO com.company.reference.controller.EmployeeController A employee with id: 11 has been deleted
+2023-08-30 00:28:10 ERROR com.company.reference.exception.APIExceptionHandler Requested employee(s) not found: {timestamp=2023-08-30T00:28:10.301125500, status=404, error=404 NOT_FOUND, message=Employee with id: 111 not found}
+2023-08-30 00:28:27 INFO com.company.reference.controller.EmployeeController All employee have been deleted
+2023-08-30 00:28:46 ERROR com.company.reference.exception.APIExceptionHandler Requested employee(s) not found: {timestamp=2023-08-30T00:28:46.690068700, status=404, error=404 NOT_FOUND, message=No employee found}
+2023-08-30 00:28:59 ERROR com.company.reference.exception.APIExceptionHandler Requested employee(s) not found: {timestamp=2023-08-30T00:28:59.088461800, status=404, error=404 NOT_FOUND, message=No employee found}
