@@ -12,4 +12,4 @@ Name is the Description
 1. logger service
 
 ### Remains
-**JUnit 5**, **jwt authentication**, **mail service**, **db backup** and many more
+**JUnit 5**, **jwt authentication**, **mail service**, **db migration**, **db backup** and many more
